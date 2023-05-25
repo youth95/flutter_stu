@@ -25,6 +25,7 @@ jobs:
       - run: flutter build web
       - run: ls build/web
       - uses: amondnet/vercel-action@v25
+        continue-on-error: true
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
