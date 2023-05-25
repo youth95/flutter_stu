@@ -1,7 +1,13 @@
 {
-    "version": 2,
-    "public": false,
-    "github": {
-      "enabled": false
+  "version": 2,
+  "public": false,
+  "github": {
+    "enabled": false
+  },
+  "builds": [
+    {
+      "src": "build/web",
+      "use": "@vercel/static"
     }
-  }
+  ]
+}
