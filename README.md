@@ -1,6 +1,6 @@
 # Flutter STU
 
-[![CI](https://github.com/youth95/flutter_stu/workflows/CI/badge.svg)](https://github.com/youth95/flutter_stu/actions?query=workflow%3ACI)
+[![CI](https://github.com/youth95/flutter_stu/actions/workflows/ci.yml/badge.svg)](https://github.com/youth95/flutter_stu/actions?query=workflow%3ACI)
 [![Vercel](https://vercelbadge.vercel.app/api/youth95/flutter_stu)](https://vercel.com/youth95/flutter-stu)
 
 
